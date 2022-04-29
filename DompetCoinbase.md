@@ -1,0 +1,12 @@
+Cliff
+Grape
+Original
+Core
+Country
+Wine
+Artist
+Quick
+Faculty
+Slab
+Text
+Bronze
